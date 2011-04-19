@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="talossa-act.xsl"?>
+<act xml:lang="en" identifier="42RZ1" rubric="The Numismatic Abbreviation Act">
+  <antecedent>
+    <whereas>there is at this time no official symbolic abbreviation for either the louis or its subdivision, the bent,
+        and</whereas>
+    <whereas>other countries' currencies have symbols, such as the American dollar ($), the United Kingdom's pound sterling (£),
+        the Euro (€), and the Japanese yen (¬¥), and</whereas>
+    <whereas>the Kingdom of Talossa is just as real as any of the countries which use the aforementioned currencies, and possibly
+        more real than some of them (especially France),</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>it is resolved that the commonly-used symbols ℓ and ¤ shall be officially adopted for the louis and bent,
+        respectively, and</therefore>
+    <furthermore>that these symbols shall be used in accordance with common practice: The symbol ¤ to be used as a separator of
+        the two denominations, with louise on the left of the symbol and bence on the right; ℓ may also be used to indicate amounts
+        in whole louise, by placing the symbol to the left of the amount.</furthermore>
+  </consequent>
+  <subscribers>
+    <swear>Uréu q'estadra sa:</swear>
+    <signature>Iustì Canun (Senator, Maricopa)</signature>
+  </subscribers>
+</act>

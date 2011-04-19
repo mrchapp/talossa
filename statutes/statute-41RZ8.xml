@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="talossa-act.xsl"?>
+<act xml:lang="en" identifier="41RZ8" rubric="The Nothing Is Impossible for a Talossan Act">
+  <antecedent>
+    <whereas>cake is very pretty, and</whereas>
+    <whereas>cake is very tasty, and</whereas>
+    <whereas>looking at a pretty cake prevents tasting it, and</whereas>
+    <whereas>tasting a cake makes it less pretty, now</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>the Ziu hereby proclaims that it shall be legal in the Kingdom of Talossa to both have your cake and eat it
+        too.</therefore>
+  </consequent>
+  <subscribers>
+    <swear>Noi urent q'estadra sa,</swear>
+    <signature>Baron Hooligan (MC, RUMP)</signature>
+    <signature>Viteu Toctviac'hteir (Sen., Vuode)</signature>
+    <signature>Litz Cjantscheir (MC, RUMP)</signature>
+    <signature>Iustì Canun (Sen., Maricopa)</signature>
+    <signature>Eoin Ursüm (MC, PPT)</signature>
+    <signature>Alexandreu Likazar (Sen., Cézembre)</signature>
+  </subscribers>
+</act>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="talossa-act.xsl"?>
+<act xml:lang="en" identifier="41RZ7" rubric="The Anti-Un-Renunciation Amendment">
+  <antecedent>
+    <whereas>a Talossan citizen who renounces his or her citizenship currently has 24 hours after the said renunciation is
+        acknowledged by the Secretary of State before the citizenship is officially lost, and</whereas>
+    <whereas>this period of time has been the cause of much agony for the citizens of the Kingdom, either in panicked acts to talk
+        the renouncing citizen out of their decision, and/or in watching the citizen change his or her mind repeatedly about such
+        a serious step, and</whereas>
+    <whereas>Talossan citizenship is the best thing money cannot buy, and</whereas>
+    <whereas>to renounce such a thing is a serious matter and should be given serious consideration long before posting about it,
+        and</whereas>
+    <whereas>especially given legislation that will make the re-entry of former citizens less of an ordeal, providing that former
+        citizens are always eligible to return to the Kingdom should they choose to re-apply for citizenship, now</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>the Ziu hereby proposes to amend the Organic Law of the Kingdom of Talossa by means of the following resolution, and
+        recommends that the said amendment be ratified by referendum of the electorate and thereupon promulgated by His Majesty the
+        King:</therefore>
+    <resolved>Article XVIII, Section 9 of the Organic Law of the Kingdom of Talossa be amended such that the sentence "It shall
+        take effect twenty-four hours following its acknowledgement by the Secretary of State" is changed to read "It shall take
+        immediate effect upon its acknowledgement by the Secretary of State through issuance of a Writ of Termination of
+        Citizenship, which shall be published under the seal of the Chancery."</resolved>
+  </consequent>
+  <subscribers>
+    <swear>Noi urent q'estadra sa,</swear>
+    <signature>Baron Hooligan (MC, RUMP)</signature>
+    <signature>Litz Cjantscheir (MC, RUMP)</signature>
+    <signature>Mick Preston (MC, RUMP)</signature>
+    <signature>Brad Holmes (Sen., Atatürk)</signature>
+    <signature>Iustì Canun (Sen., Maricopa)</signature>
+    <signature>Ieremiac'h Ventrutx (Sen., Florencia)</signature>
+  </subscribers>
+</act>

@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="talossa-act.xsl"?>
+<act xml:lang="en" rubric="Census Act">
+  <antecedent>
+    <whereas>most countries nowadays have a census</whereas>
+    <whereas>a census can provide a lot of information about the current citizens of Talossa and those of the past</whereas>
+    <whereas>a census will allow the collection of specific information from all citizens of Talossa which can aid Talossa in
+        future projects</whereas>
+    <whereas>it will also allow comparison between Talossa of yesteryear and today</whereas>
+    <whereas>there is currently no legal framework in place to hold a census in Talossa</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>be it enacted by the Ziu;
+      <section num="1">
+        <subsection num="1">The Seneschal may, from time to time issue an “Order of Census”, instructing that a census shall be
+            taken for Talossa, or for any part(s) of Talossa, and any Order under this section must state:
+          <orderedlist>
+            <item>The time period on which the census will be taken;</item>
+            <item>The persons by whom and with respect to whom the returns for the purpose of the census are to be made;</item>
+            <item>The particulars to be stated in the returns; and</item>
+            <item>The person(s) who shall be appointed Chief Enumerator.</item>
+          </orderedlist>
+        </subsection>
+        <subsection num="2">An Order shall not be made under this section so as to require a census to be taken in any part of
+            Talossa in any month, unless 6 months have elapsed since the last census was last taken in that part of
+            Talossa.</subsection>
+        <subsection num="3">No particulars shall be required to be stated other than the following particulars:
+          <orderedlist>
+            <item>Names, sex, age.</item>
+            <item>Occupation, education, profession, trade or employment.</item>
+            <item>Nationality, birthplace, race, language.</item>
+            <item>Place of abode and character of dwelling.</item>
+            <item>Talossa</item>
+            <item>Condition as to marriage, relation to head of family, children.</item>
+            <item>Religion</item>
+          </orderedlist>
+        </subsection>
+        <subsection num="4">Any Order made under this section may be revoked, amended or varied by a subsequent Order.</subsection>
+      </section>
+      <section num="2">
+        <subsection num="1">It shall be the duty of the Chief Enumerator to make such arrangements and do all such things as are
+            necessary for the taking of a census in accordance with the provisions of this Act and regulations made by the Order
+            of Census, and for that purpose to make arrangements for the preparation and issue of the necessary forms and
+            instructions, and for the collection of the forms when filled up.</subsection>
+        <subsection num="2">The Chief Enumerator, in the exercise of his powers and in the performance of his duties under this Act
+            or under the Order of Census or regulations made thereunder, shall be subject to the control of, and comply with, any
+            directions given by the Seneschal and/or his appointed Minister.</subsection>
+        <subsection num="3">Any expenses incurred with the sanction of the Minister of Finance in connection with the taking of a
+            census or otherwise in connection with the exercise of Chief Enumerator's powers or the performance of his duties under
+            this Act shall be defrayed out of monies provided by the Royal Treasury.</subsection>
+        <subsection num="4">The Chief Enumerator shall, as soon as may be after the taking of a census:
+          <orderedlist>
+            <item>Prepare reports on the census returns, and every such report shall be made available online and laid before the
+                Ziu; and</item>
+            <item>Send all reports on the census, to the Royal Archivist, who shall be responsible for the safe, secure and
+                publically assessable archiving of this information.</item>
+          </orderedlist>
+        </subsection>
+        <subsection num="5">The Chief Enumerator may, at his own discretion and at whim, appoint or dismiss a Deputy and/or citizens
+            of Talossa to aid him in his duties and responsibilities under this Act.</subsection>
+      </section>
+      <section num="3">
+        <subsection num="1">If the Chief Enumerator or any person who is—
+          <orderedlist>
+            <item>under the control of the Chief Enumerator; or</item>
+            <item>a supplier of any services to him,</item>
+          </orderedlist>
+          discloses any personal census information to another person, without lawful authority, he shall be guilty of an offence.
+        </subsection>
+        <subsection num="2">If any person discloses to another person any personal census information which he knows has been
+            disclosed in contravention of this Act, he shall be guilty of an offence.</subsection>
+        <subsection num="3">It shall be a defence for a person charged with an offence under subsection (a) or (b) to prove—
+          <orderedlist>
+            <item>that at the time of the alleged offence he believed—
+              <orderedlist>
+                <item>that he was acting with lawful authority; or</item>
+                <item>that the information in question was not personal census information; and</item>
+              </orderedlist>
+            </item>
+            <item>that he had no reasonable cause to believe otherwise.</item>
+          </orderedlist>
+        </subsection>
+      </section>
+    </therefore>
+  </consequent>
+  <subscribers>
+    <swear>Uréu q'estadra så:</swear>
+    <signature>
+      <title>HM Government, represented by:</title>
+      Litz Cjantscheir, Seneschal, MC, RUMP
+    </signature>
+  </subscribers>
+</act>
