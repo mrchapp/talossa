@@ -18,8 +18,9 @@
   </xsl:when>
   <xsl:otherwise>Proposed</xsl:otherwise>
 </xsl:choose>:<br/><xsl:value-of select="@rubric"/></h1>
-<hr/>
+<div id="act">
 <xsl:apply-templates/> 
+</div>
 </div>
 </body>
 </html>

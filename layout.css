@@ -1,7 +1,7 @@
 /* This is based off http://www.wellstyled.com/style/layout.css */
 body {
 	margin:0; padding:0;
-	font-family: "Trebuchet MS", sans-serif;
+	font: 110%/1.6 Georgia, Times, "Times Now Roman", serif;
 	line-height: 1.5;
 	background:white;
 	color:#666;
@@ -212,5 +212,25 @@ ul.artlist strong {
 
 /* TALOSSA */
 /* #antecedent { text-align: center; font-style: italic; } */
-#subscribers { text-align: right; }
-#subscribers .swear { font-style: italic; }
+#subscribers {
+	text-align: right;
+	margin:2em 0 2em 0;
+	}
+#subscribers p { height:0.5em; }
+#subscribers .swear { font-style: italic; height:1em;}
+
+#act {
+	margin:1em 0; padding:1em 2em 0 2em;
+	border:1px solid #889971;
+	background: #E8F2DA url("act-bg.png") top left repeat;
+	}
+#act-end {
+	clear:both;
+	margin: 0 0 0 -2em; padding:0;
+	height:30px;
+	border:none;
+	}
+#act-end hr {
+	padding:0; margin:0;
+	visibility:hidden;
+	}
