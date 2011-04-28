@@ -1,5 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-stylesheet type="text/xsl" href="talossa-act.xsl"?>
 <act xml:lang="en" rubric="Census Act">
   <antecedent>
     <whereas>most countries nowadays have a census</whereas>
