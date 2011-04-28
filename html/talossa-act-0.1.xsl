@@ -6,8 +6,8 @@
 <html><head>
 	<meta http-equiv="content-type" content="text/html; charset=utf-8" />
 	<title>Talossan Statute <xsl:value-of select="@identifier"/>: <xsl:value-of select="@rubric"/></title>
-	<style type="text/css" media="screen,projection"> @import "layout.css"; </style>
-	<style type="text/css" media="print"> @import "print.css"; </style>
+	<style type="text/css" media="screen,projection"> @import "../html/layout.css"; </style>
+	<style type="text/css" media="print"> @import "../html/print.css"; </style>
 </head>
 <body>
 <div id="content">
