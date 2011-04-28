@@ -1,0 +1,63 @@
+<act xml:lang="en" identifier="42RZ4" rubric="The Clerk of Courts Act">
+  <antecedent>
+    <whereas>we have a legal system which continues to develop and grow with
+        our Kingdom and</whereas>
+    <whereas>there has been some criticism of the manner in which court cases
+        were handled in terms of timeliness and</whereas>
+    <whereas>we presently have no formal means of bringing action against a
+        person or entity through our system of Courts so</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>we establish the office of Clerk of Courts. The Clerk shall be
+        an apolitical position appointed by the reigning Monarch upon
+        recommendation of the Prime Minister and shall serve in the following
+        capacities:
+      <ordered-list>
+        <item>The clerk shall receive and file actions brought by individuals
+            or their representative attorneys and assign to each requested
+            action a docket number.</item>
+        <item>The clerk shall then assign the case to a Judge, Magistrate or
+            Justice in the lowest court holding jurisdiction over the
+            matter.</item>
+        <item>Judicial assignments shall be made in descending order of
+            seniority. In cases where a clear conflict of interest should
+            arise, the clerk shall assign the case to the next jurist in that
+            order.</item>
+        <item>The clerk shall maintain a record of docket numbers and judicial
+            assignments to be archived along with the final disposition of the
+            case for ease of reference.</item>
+        <item>This file shall be available to any citizen for use in the
+            preparation of legal strategy, the study of law or for any
+            legitimate purpose.</item>
+        <item>Appeals shall be filed as separate actions and will be assigned
+            new docket numbers but shall be archived together with the
+            original action for ease of reference.</item>
+        <item>The Clerk shall acknowledge the receipt of any filing and shall,
+            within 72 business hours of said acknowledgment, assign a docket
+            number and make a judicial assignment.</item>
+        <item>The individual holding the office of Clerk of Courts shall enjoy
+            immunity from civil or criminal suit for any actions performed in
+            the course of his or her official duties while holding this
+            office. This immunity shall be lost upon leaving office. Due to
+            the nature of the Clerk's responsibilities, an individual may not
+            hold the office of Clerk of Courts, or any deputy thereunder,
+            while simultaneously holding office as a Justice, Judge or
+            Magistrate of the Uppermost Cort or any national inferior
+            court.</item>
+        <item>The Clerk of Courts serves at the pleasure of the King and may
+            be dismissed by royal decree. In the case of alleged misconduct,
+            the Clerk of Courts may be removed from office by Prime
+            Dictate.</item>
+        <item>Any individual who shall be found to have accepted bribe or
+            other gratuities for the purposes of manipulating the assignment
+            of jurists shall be guilty of public corruption of an officer of
+            the Court, a felony, and shall suffer a punishment to be
+            determined by the court.</item>
+      </ordered-list>
+    </therefore>
+  </consequent>
+  <subscribers>
+    <swear>Uréu q'estadra sa;</swear>
+    <signature>Capt. T.M. Asmourescu, Senator-Benito</signature>
+  </subscribers>
+</act>
