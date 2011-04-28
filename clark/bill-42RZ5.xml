@@ -1,0 +1,47 @@
+<act xml:lang="en" identifier="42RZ5" rubric="The Legal Representation Act">
+  <antecedent>
+    <whereas>we currently have the infrastructure for the designation of
+        attorneys and</whereas>
+    <whereas>the functions and responsibilities of attorneys have not been
+        outlined elsewhere and so</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>, we establish the following guidelines for the practice of law
+        within the realm:
+      <ordered-list>
+        <item>The practice of law shall be defined as the representation of
+            individuals, corporations and government bodies before the
+            Uppermost Cort, Military or Provincial Court, or any inferior
+            court established by the Ziu; or the professional discussion or
+            advice on matters of a legal nature.</item>
+        <item>Practice before the Uppermost Cort or any inferior National
+            Court established by the Ziu shall be limited to members of the
+            Royal Talossan Bar who maintain their membership in good
+            standing.</item>
+        <item>Practice before Military Courts shall be restricted to members
+            of the Royal Talossan Bar or to any commissioned officer granted
+            waiver by the Minister of Defence to serve as a legal
+            representative, pursuant to Ministry of Defence guidelines.</item>
+        <item>Practice before Provincial Courts shall be governed by
+            Provincial Law.</item>
+        <item>No part of this law shall limit an individual's ability to
+            represent themselves before any court of the realm.</item>
+        <item>Provincial Premiers shall have the authority to represent their
+            Province, in actions brought before a National Court, as a
+            function of their office. This responsibility may be delegated
+            only to a member of the Royal Talossan Bar. The role of the
+            premier, or any Provincial official, within the provincial court
+            system shall be regulated by applicable provincial law.</item>
+        <item>The use of titles such as lawyer, attorney, barrister, solicitor,
+            or councillor/counselor-at-law or any other title reserved by
+            guidelines of the Royal Talossan Bar shall be restricted to those
+            who are licensed to engage in the practice of law within the
+            realm.</item>
+      </ordered-list>
+    </therefore>
+  </consequent>
+  <subscribers>
+    <swear>Uréu q'estadra sa;</swear>
+    <signature>T.M. Asmourescu, Senator of Benito</signature>
+  </subscribers>
+</act>
