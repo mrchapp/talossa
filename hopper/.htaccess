@@ -1,0 +1,3 @@
+AddOutputFilterByType LAYOUT application/xml
+LayoutIgnoreURI *.xsl
+LayoutHeader .header-web.xml
