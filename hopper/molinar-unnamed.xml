@@ -1,0 +1,45 @@
+<act xml:lang="en" rubric="Unnamed Act">
+  <antecedent>
+    <whereas>Talossa has seven provinces, and</whereas>
+    <whereas>only two of those provinces have shown any signs of activity
+        during the last two periods of inactivity, and</whereas>
+    <whereas>a province needs a few active citizens to keep the province alive,
+        and</whereas>
+    <whereas>it will take a lot of time for the kingdom to gain enough citizens
+        for seven provinces to be active, and</whereas>
+    <whereas>if there were less provinces, most provinces would have more
+        (active) citizens), and</whereas>
+    <whereas>a transition from seven to five provinces needs wide support, both
+        nationally and provincially, and</whereas>
+    <whereas>I don’t want to create a very detailed plan without knowing
+        whether it has enough support, and</whereas>
+    <whereas>if someone comes up with a proposal to create fewer provinces and
+        it does not pass, it still won’t be certain whether it failed because
+        there is no support for fewer provinces or because a majority has
+        problems with some details of the proposal, and</whereas>
+    <whereas>according to the Organic Law, article XX, section 10, “Legislation
+        may be enacted by the people through the Referendum. The Cosâ may
+        prepare referenda and submit these to popular vote, as it sees fit. The
+        referendum may be advisory (a non-binding public opinion check) or may
+        have the force of law upon its approval by a majority of those who vote
+        on it. Referenda questions appear on the ballot during the next general
+        election, or sooner, if the Seneschál so chooses to authorize.”,
+        now</whereas>
+  </antecedent>
+  <consequent>
+    <therefore>an advisory referendum shall be held during the General Elections
+        in which all citizens shall be asked to answer the following two
+        questions:
+      <orderedlist>
+        <item>Do you think Talossa should have five provinces instead of
+            seven?</item>
+        <item>Do you support a fusion between your province and another
+            province?</item>
+      </orderedlist>
+    </therefore>
+  </consequent>
+  <subscribers>
+    <swear>Uréu q'estadra sa;</swear>
+    <signature>Flip Molinar (MC-PPT)</signature>
+  </subscribers>
+</act>
